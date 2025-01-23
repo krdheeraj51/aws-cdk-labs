@@ -5,7 +5,7 @@ This repository is designed to take you from beginner to advanced in AWS CDK (Cl
 ## 📚 Lab Overview
 
 Each lab focuses on a specific concept or use case, building step-by-step skills:
-<--
+
 - **Lab 1:** Introduction to AWS CDK
 - **Lab 2:** Creating Your First CDK Stack
 - **Lab 3:** Working with Constructs
@@ -16,7 +16,7 @@ Each lab focuses on a specific concept or use case, building step-by-step skills
 - **Lab 8:** Advanced CDK Concepts
 - **Lab 9:** Monitoring and Logging
 - **Lab 10:** Deploying a Highly Available Application
--->
+
 Check individual lab folders for detailed instructions and templates.
 
 ## 🛠️ Prerequisites
